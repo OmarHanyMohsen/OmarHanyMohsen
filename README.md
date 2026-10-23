@@ -27,7 +27,7 @@ I'm a **Business Technology / BIS Student** passionate abut software development
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** linkedin.com/in/omar-hany-34176531a(https://linkedin.com)
+- **LinkedIn:** [linkedin.com/in/omar-hany-34176531a](https://linkedin.com)
 - **Email:** omarhanyamin249@gmail.com
 
 <!--
