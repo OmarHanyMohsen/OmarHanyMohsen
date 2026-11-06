@@ -1,10 +1,10 @@
-# Hi there, my name is Omar👋
+# Hi there, my name is Omar
 
 I'm a **Business Technology / BIS Student** passionate abut software development, computer science, and building applications. 
 
 ---
 
-### 🛠️ Tech stack & Tools
+###  Tech stack & Tools
 
 -**Languages:** C, Python, SQL, GDScript.
 -**Developer Tools:** Git/Github, Visual Studio Code, Bash.
@@ -12,22 +12,22 @@ I'm a **Business Technology / BIS Student** passionate abut software development
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 📌 [Project Name 1](https://github.com/OmarHanyMohsen/repo-1)
+####  [Project Name 1](https://github.com/OmarHanyMohsen/repo-1)
 - **Description:** A brief 1-2 sentence description of what the project does.
 - **Tech Stack:** C, Make, GCC
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarHanyMohsen&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHanyMohsen&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/omar-hany-34176531a](https://linkedin.com)
 - **Email:** omarhanyamin249@gmail.com
