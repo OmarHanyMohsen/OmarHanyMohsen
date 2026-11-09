@@ -12,14 +12,6 @@ I'm a **Business Technology / BIS Student** passionate abut software development
 
 ---
 
-###  Featured Projects
-
-####  [Project Name 1](https://github.com/OmarHanyMohsen/repo-1)
-- **Description:** A brief 1-2 sentence description of what the project does.
-- **Tech Stack:** C, Make, GCC
-
----
-
 ###  GitHub Stats
 
 ![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarHanyMohsen&show_icons=true&theme=tokyonight)
