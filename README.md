@@ -12,6 +12,14 @@ I'm a **Business Technology / BIS Student** passionate abut software development
 
 ---
 
+###   Past Projects
+
+####  [XOR Cipher]([https://github.com/OmarHanyMohsen/repo-1](https://github.com/OmarHanyMohsen/XOR-cipher))
+- *Description:* A fast, lightweight command-line tool written in C that encrypts and decrypts binary or plain text files using a custom secret key and bitwise XOR operation.
+- *Tech Stack:* C, Make
+
+---
+
 ###  Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/omar-hany-34176531a](https://linkedin.com)
