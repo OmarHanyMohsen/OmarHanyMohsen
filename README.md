@@ -12,13 +12,6 @@ I'm a **Business Technology / BIS Student** passionate abut software development
 
 ---
 
-###  GitHub Stats
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarHanyMohsen&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHanyMohsen&layout=compact&theme=tokyonight)
-
----
-
 ###  Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/omar-hany-34176531a](https://linkedin.com)
