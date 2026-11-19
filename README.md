@@ -38,4 +38,3 @@ A terminal-based calculator in C supporting core arithmetic operations with inpu
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-hany-34176531a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarhanyamin249@gmail.com)
